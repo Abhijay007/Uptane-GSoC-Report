@@ -17,7 +17,7 @@
    - [Coding the Site 💻](#coding-the-site-)
    - [Content Improvements 📄](#content-improvements-)
 6. [💬 Pull Request and Commit Statistics](#computer-pull-request-and-commit-statistics-)
-7. [🔗Important Links](#important-links-)
+7. [🔗 Important Links](#important-links-)
 8. [🤝 Interactions with the Uptane Community](#interactions-with-the-uptane-community-)
 9. [🙏 Acknowledgements](#star-acknowledgements-)
 10. [✔️ What Was Covered](#what-was-covered-%EF%B8%8F)
