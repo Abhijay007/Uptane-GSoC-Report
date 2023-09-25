@@ -11,7 +11,7 @@
 2. [🧑‍🎓Student Info](#student-info-)
 3. [📙 Abstract](#-abstract)
 4. [📧 Communication during the development period](#email-communication-during-the-development-period)
-5. [🖥️ About the project(s](#-about-the-project)
+5. [🖥️ About the project](#-about-the-project)
    - [Initialization 🚀](#initialization-)
    - [Site New Layout 📐](#site-new-layout-)
    - [Coding the Site 💻](#coding-the-site-)
