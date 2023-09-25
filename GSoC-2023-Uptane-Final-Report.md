@@ -1,7 +1,8 @@
 ## Uptane GSoC'23 Report 🚀
 
 <p align="center">
-<img src="https://github.com/Abhijay007/p5-visualizer/assets/64387054/d3e22310-ff58-4949-bfdf-290e5bffa50d">
+<img src="https://github.com/Abhijay007/Uptane-GSoC-Report/assets/64387054/9c67efcf-31ad-47ac-b9f5-694cf017ac4b">
+
 </p>
 
 ## Table of Contents
@@ -53,7 +54,7 @@ Uptane is an important project that provides secure software updates for connect
 
 Before GSoC, contributors communicated with each other either through GitHub discussions or asynchronously via email. Since GSoC needed more regular discussion (more on a personal level), we decided to have bi-weekly meetings to have seamless communication and better understanding. For text conversations, we stuck to email as it is a feasible option for text-based communication. After every meeting, I used to write a follow-up email to the mentors so that we could have a backup or a routine outline of things we have discussed in those bi-weekly meetings.
 
-![Mail Screenshot](https://github.com/Abhijay007/p5-visualizer/assets/64387054/9582b6fa-0514-4f67-bc87-8975d90b6ae3)
+![Mail Screenshot](![image](https://github.com/Abhijay007/Uptane-GSoC-Report/assets/64387054/e64e56ff-00e7-41c0-a3cb-77906596407a)
 
 <p align="center">One of our very first follow-up emails.</p>
 
@@ -83,13 +84,13 @@ I initiated the design of the new site by adopting a collaborative approach with
 
 |Figma Desing Preview|
 |------|
-|<img src="https://github.com/Abhijay007/p5-visualizer/assets/64387054/bf0f276a-ddef-484b-9a13-51bd77f81cfa" />|
+|<img src="https://github.com/Abhijay007/Uptane-GSoC-Report/assets/64387054/dd785ad9-f432-4a61-b0c8-0ba3d617a17d" />|
 
 
 - Here is a video overview of the site, where I explained all the sections 
 
 
-https://github.com/Abhijay007/Uptane-GSoC-Report/assets/64387054/9e8be6d2-3d9e-478d-99fa-44150175f96a
+https://github.com/Abhijay007/Uptane-GSoC-Report/assets/64387054/0deb8aec-1c25-44e3-bf00-897f78c2a9f3
 
 
 ### Coding the Site 💻
