@@ -81,7 +81,7 @@ I initiated the design of the new site by adopting a collaborative approach with
 
 - Link to the Figma Design File : [Figma Design](https://www.figma.com/file/drCXCmIbIiTq9yaSgQJQtF/uptane-New?type=design&node-id=0%3A1&mode=design&t=3oGmlYrO4UafXxjz-1).
 
-|Demo Video |
+|Figma Desing Preview|
 |------|
 |<img src="https://github.com/Abhijay007/p5-visualizer/assets/64387054/bf0f276a-ddef-484b-9a13-51bd77f81cfa" />|
 
@@ -89,8 +89,7 @@ I initiated the design of the new site by adopting a collaborative approach with
 - Here is a video overview of the site, where I explained all the sections 
 
 
-https://github.com/Abhijay007/p5-visualizer/assets/64387054/b0343789-a762-4273-9d99-b0ee9d0c1452
-
+https://github.com/Abhijay007/Uptane-GSoC-Report/assets/64387054/9e8be6d2-3d9e-478d-99fa-44150175f96a
 
 
 ### Coding the Site 💻
