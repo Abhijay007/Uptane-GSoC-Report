@@ -48,7 +48,7 @@
 
 ## 📙 Abstract
 
-Uptane is an important project that provides secure software updates for connected vehicles, and it needs to offer a better experience to its users to encourage the adoption of the technology. The project's website is the primary source of information for users and developers, and it's essential that the information is easy to access and understand. The current website has a lot of information; however, it's not well-organized. It's difficult for new users to find the essential information they need. The navigation through the site is also challenging. All of these factors could discourage new users from adopting the system. The goal of this project is to overhaul the Uptane.io website to create a better user experience through more logical organization and easier navigation.
+Uptane is an important project that provides secure software updates for connected vehicles, and it needs to offer a better experience to its users to encourage the adoption of the technology. The project's website is the primary source of information for users and developers, and it's essential that the information is easy to access and understand. The current website has a lot of information; however, it's not well-organized. It's difficult for new users to find the essential information they need. The navigation through the site is also challenging. All of these factors could discourage new users from learning more about the project. The goal of this project is to overhaul the Uptane.io website to create a better user experience through more logical organization and easier navigation.
 
 ## :email: Communication during the development period 
 
@@ -67,18 +67,16 @@ The objective of this project is to deconstruct the current website layout and d
 - Identifying key information that may be missing and adding it to the website.
 - Adding dynamic elements to the website to support more interactivity between users and the site.
 
-The primary goal of this project is to create a better user experience for those accessing the Uptane website. This can be achieved by deconstructing the website in terms of layout and design and then reorganizing the information in a more logical way. The website should have a cleaner and more contemporary look, but the primary focus should be on creating a more logical arrangement of information.
-
 (PS: Here’s [the link](https://drive.google.com/file/d/1lTvrFoS7VzOsNRWsmoHVOnTd0ui9BZ3g/view?usp=sharing) to my GSoC proposal if you’re interested!)
 
 ### Initialization 🚀
 
-During our first meeting, we needed to make an important decision: whether to stick with the existing technology, which is Jekyll, or migrate the site to a new framework, Docusaurus. After a discussion, we decided to go with Docusaurus as it is quite easy to maintain and comparatively better than Jekyll. Mentors gave me a task after most meetings to test the existing content of our existing Uptane site with Docusaurus so that we can be sure if using Docusaurus is feasible or not. So, I created a demo version of the site and shared it with the mentors. After review, mentors and the community reviewed our decision to go with Docusaurus as our main framework to build the site. Mentors suggested that I move forward and prepare a new design layout for the site.
+During our first meeting, we needed to make an important decision: whether to stick with the existing technology, which is Jekyll, or migrate the site to a new framework, Docusaurus. After a discussion, we decided to go with Docusaurus as it is quite easy to maintain and comparatively better than Jekyll. The mentors assigned me the task of testing the existing content of the site with Docusaurus so that we can determine if using this program would be feasible. So, I created a demo version of the site and shared it with the mentors. After review, both the mentors and other community members reviewed our decision to go with Docusaurus as our main framework to build the site. The mentors then suggested that I move forward and prepare a new design layout for the site.
 
 
 ### Site New Layout 📐
 
-I initiated the design of the new site by adopting a collaborative approach with mentors to receive continuous feedback. For efficient communication and design collaboration, I opted to use Figma, a tool with which I had prior experience. Figma served its purpose effectively. Lois shared a rough design doc [linked here](https://docs.google.com/document/d/1v4-tHH6dUWi-32H2qkBufHrZTsxzjHWGVHJGO9p0i34/edit?usp=sharing) explaining what we need on the new site, following which I started gathering design inspiration and shared a preliminary rough layout on Figma. I explored various platforms such as Dribbble and Behance. After conducting research, I stumbled upon a valuable resource: the Docusaurus showcase, which contained a collection of open-source sites built with Docusaurus. Drawing inspiration from these sites, I began working on the site's layout. I created a preliminary design that can be viewed below
+I initiated the design of the new site by adopting a collaborative approach to receive continuous feedback. For efficient communication and design collaboration, I opted to use Figma, a tool with which I had prior experience. Figma served its purpose effectively. Lois shared a rough design doc [linked here](https://docs.google.com/document/d/1v4-tHH6dUWi-32H2qkBufHrZTsxzjHWGVHJGO9p0i34/edit?usp=sharing) explaining what we need on the new site, following which I started gathering design inspiration and shared a preliminary rough layout on Figma. I explored various platforms such as Dribbble and Behance. After conducting research, I stumbled upon a valuable resource: the Docusaurus showcase, which contained a collection of open-source sites built with Docusaurus. Drawing inspiration from these sites, I began working on the site's layout. I created a preliminary design that can be viewed below
 
 - Link to the Figma Design File : [Figma Design](https://www.figma.com/file/drCXCmIbIiTq9yaSgQJQtF/uptane-New?type=design&node-id=0%3A1&mode=design&t=3oGmlYrO4UafXxjz-1).
 
@@ -99,15 +97,15 @@ Once we had finalized the site's design to a significant extent, I embarked on t
 
 ### Content Improvements 📄
 
-After completing the initial deployment and layout of the site, we shifted our focus to enhancing the content, which serves as the documentation for the Uptane community. In the existing site, we encountered several content-related issues. Firstly, there was an abundance of unnecessary content, and secondly, some of the existing content was outdated and required substantial improvements.
+After completing the initial deployment and layout of the site, we shifted our focus to enhancing the content, which serves as the documentation for the Uptane community. In the existing site, we encountered several content-related issues. Firstly, there was an abundance of unnecessary content including a number of redundancies across the site, and secondly, some of the existing content was outdated and required substantial improvements.
 
 In the new site, we undertook a comprehensive overhaul of the documentation structure and redefined the hierarchy. This restructuring presented us with some challenges, especially when dealing with content originally structured for the old Jekyll architecture. We needed to adapt this content to the Docusaurus-based Markdown format. Docusaurus treats Markdown files somewhat differently and provides helpful tools for managing content effectively.
 
-Some content was fetched from different repositories. Initially, we contemplated establishing a workflow to handle this content, but over time, we realized that we could optimize the process by making edits to the existing workflows and ensuring that the updated content adheres to Docusaurus standards and best practices.
+Some content on the site is fetched from different repositories. Initially, we contemplated establishing a workflow to handle this content, but over time, we realized that we could optimize the process by making edits to the existing workflows and ensuring that the updated content adheres to Docusaurus standards and best practices.
 
 For details on the specific commits related to these content improvements, please refer to [this link](https://github.com/Abhijay007/uptane-demo/commits/master).
 
-## :computer: Pull Request and Commits Statistics 💬
+## :computer: Pull Request and Commit Statistics 💬
 
 Here is a list of all the pull requests I created during the GSoC coding period:
 
@@ -116,7 +114,7 @@ Here is a list of all the pull requests I created during the GSoC coding period:
    - Commits: [Link to Commits](https://github.com/Abhijay007/Abhijay007.github.io/pull/1/commits)
 
 2. **Demo Repository for Project Progress**:
-   - Due to the dynamic nature of the project with many changes, my mentor recommended creating a demo repository to track and showcase the progress. Here's the demo repository with all the commits:
+   - Due to the dynamic nature of the project and its many changes, my mentor recommended creating a demo repository to track and showcase the progress. Here's the demo repository with all the commits:
    - Demo Repository: [Link to Demo Repository](https://github.com/Abhijay007/uptane-demo)
    - Commits: [Link to Commits](https://github.com/Abhijay007/uptane-demo/commits/master)
 
@@ -140,7 +138,7 @@ These pull requests and commits represent the milestones and progress made durin
 
 ## Interactions with the Uptane Community 🤝
 
-I had the privilege of presenting myself and my GSoC project to the Uptane community during the Uptane workshop on June 23rd. During this presentation, I introduced myself and provided an overview of my GSoC project. Initially, I felt a bit nervous, and there were moments of hesitation during my presentation. However, the Uptane community and my mentors were incredibly supportive, appreciated my efforts.
+I had the privilege of presenting myself and my GSoC project to the Uptane community at an Uptane workshop on June 23rd. During this presentation, I introduced myself and provided an overview of my GSoC project. Initially, I felt a bit nervous, and there were moments of hesitation during my presentation. However, the Uptane community and my mentors were incredibly supportive, and my efforts seemed to be appreciated.
 
 I received valuable assistance from Lois in preparing the initial presentation, and she also provided timely reviews, which greatly contributed to the success of my presentation. This experience was entirely new to me, and it was an excellent opportunity to interact with members of the Uptane community, many of whom are highly accomplished in their respective fields. Presenting my work in front of such a distinguished audience was both a valuable experience and a unique opportunity for me. I am grateful to all the GSoC mentors who granted me this chance to showcase my work to the community.
 
@@ -148,7 +146,7 @@ If you would like to access the presentation slides, you can find them [here](ht
 
 ## :star: Acknowledgements 🙏
 
-My journey through Google Summer of Code has been a remarkable experience, transitioning from personal projects to contributing to real-world website applications. The opportunity to learn by doing has been invaluable, and I am deeply grateful to have been part of this extraordinary program ❤️.
+My journey through Google Summer of Code has been a remarkable experience as it represented a transition from personal projects to contributing to real-world website applications. The opportunity to learn by doing has been invaluable, and I am deeply grateful to have been part of this extraordinary program ❤️.
 
 I extend my heartfelt gratitude to all the mentors who have been an incredible source of guidance and support throughout my GSoC journey. Your mentorship has been instrumental in my growth as a developer, and I am fortunate to have had you by my side every step of the way.
 
@@ -164,7 +162,7 @@ During the course of the project, we successfully addressed and accomplished a w
    - Migrated the old Jekyll-based site to Docusaurus, providing a more modern and maintainable platform for the Uptane website.
 
 2. **Documentation Revision and Update**:
-   - Revised and updated the Uptane documentation across various items, ensuring accuracy and relevance.
+   - Revised and updated Uptane documentation across various items, ensuring accuracy and relevance.
 
 3. **Redesigned Website Layout**:
    - Revamped the site's design and layout to make it more user-friendly, modern, and aesthetically pleasing.
@@ -178,17 +176,17 @@ During the course of the project, we successfully addressed and accomplished a w
 6. **Added Dynamic Elements**:
    - Integrated dynamic elements into the website to enhance interactivity and engagement for users, ensuring a more immersive experience.
 
-This is a short summary of what aspects of the site are covered; you can read more about the future aspects below.
+This is a short summary of what aspects of the site have been covered; you can read more about the future aspects below.
 
-## What's Left and Future Aspects 🚀
+## What Work Remains 🚀
 
-We have successfully accomplished most of the project milestones outlined in the proposal. However, there are several exciting improvements and future aspects that can enhance the Uptane project's website even further:
+We have successfully accomplished most of the project milestones outlined in the proposal. However, there are several exciting improvements that coulf enhance the Uptane project's website even further:
 
 1. **Site Analytics Integration**:
    - Consider incorporating analytics tools like Google Analytics or Microsoft Clarity to gain valuable insights into user behavior and site performance. This data can help in making informed decisions for site enhancements.
 
 2. **Enhanced Search Functionality**:
-   - Implement advanced search functionality using Algolia or a similar search engine. This will make it easier for users to find specific content quickly, improving their overall experience.
+   - Implement advanced search functionality using Algolia or a similar search engine. This will make it easier for users to find specific content quickly, thus improving their overall experience.
 
 3. **New Components**:
    - Introduce new components for various sections such as blogs, contributors, community, and news. These components, initially proposed in the design phase, can provide richer and more engaging content to visitors.
@@ -197,14 +195,14 @@ We have successfully accomplished most of the project milestones outlined in the
    - Optimize code and images to ensure faster page loading times and an improved user experience. This can involve techniques like minification, lazy loading, and image compression.
 
 5. **Workflow for Auto-updating Content**:
-   - Establish workflows for automatically updating site content to reflect new versions of standards and deployment best practices. This ensures that the site remains up-to-date with the latest information.
+   - Establish workflows for automatically updating site content to reflect new versions of the Standards and Deployment Best Practices. This ensures that the site remains up-to-date.
 
 6. **Workflow for Generating Deployed Previews for PRs**:
    - Create a workflow that generates deployed previews for new pull requests. This feature facilitates easier testing and review of proposed changes before they are merged into the main site.
 
 .... and more 
 
-These enhancements and future aspects can contribute to a more dynamic, informative, and user-friendly Uptane project website. By implementing these improvements, we can further elevate the user experience and support the Uptane community's evolving needs.
+These enhancements are capable of contributing to a more dynamic, informative, and user-friendly Uptane project website. By implementing these improvements, we can further elevate the user experience and support the Uptane community's evolving needs.
 
 ## Reference 📚
 
