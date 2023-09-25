@@ -54,7 +54,7 @@ Uptane is an important project that provides secure software updates for connect
 
 Before GSoC, contributors communicated with each other either through GitHub discussions or asynchronously via email. Since GSoC needed more regular discussion (more on a personal level), we decided to have bi-weekly meetings to have seamless communication and better understanding. For text conversations, we stuck to email as it is a feasible option for text-based communication. After every meeting, I used to write a follow-up email to the mentors so that we could have a backup or a routine outline of things we have discussed in those bi-weekly meetings.
 
-![Mail Screenshot](![image](https://github.com/Abhijay007/Uptane-GSoC-Report/assets/64387054/e64e56ff-00e7-41c0-a3cb-77906596407a)
+![Mail Screenshot](https://github.com/Abhijay007/Uptane-GSoC-Report/assets/64387054/e64e56ff-00e7-41c0-a3cb-77906596407a)
 
 <p align="center">One of our very first follow-up emails.</p>
 
