@@ -134,7 +134,11 @@ These pull requests and commits represent the milestones and progress made durin
 
 - [Commits during GSoC 2023](https://github.com/Abhijay007/uptane-demo/commits/master) <--- in Demo Repo
 
-- [Website Deployed Version](https://abhijay007.github.io/uptane-demo/)
+- [Commits during GSoC 2023](https://github.com/uptane/uptane.github.io/commits?author=Abhijay007) <--- in Main Repo - UptaneDocusaurus Branch
+
+- [Website DEMO Deployed Version](https://abhijay007.github.io/uptane-demo/)
+
+- [Website Live Deployed Version](https://uptane.github.io/)
 
 ## Interactions with the Uptane Community 🤝
 
@@ -226,4 +230,4 @@ Truly an experience I will cherish for a lifetime!
 
 - We are keeping all the communications open, so that everyone can sync and is free to contribute. So if you have any feature/bugs suggestions about anything please do not hesitate to open up an issue in the Uptane Projects.
 
-- You can join Uptane's mailing list to participate in the discussions happening here : [uptane-standards@googlegroups.com](mailto:uptane-standards@googlegroups.com)
+- You can join Uptane's mailing list to participate in the discussions happening here : [uptane-standards@googlegroups.com](mailto:uptane-standards@googlegroups.com). Additionally, you can connect with the Uptane community on [Discord](https://discord.gg/uWyT6gDCqx), or stay updated on the latest announcements by following Uptane on [LinkedIn](https://www.linkedin.com/company/uptane/).
